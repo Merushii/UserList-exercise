@@ -20,7 +20,7 @@ Implementa una funcionalidad de búsqueda que permita filtrar los usuarios por n
 - Axios
 - Tailwind CSS
 
-##Instrucciones de ejecución
+## Instrucciones de ejecución
 
 Descarga el zip del proyecto
 Descomprime el zip
