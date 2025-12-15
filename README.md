@@ -1,4 +1,4 @@
-# User List – Fullstack Test
+# User List Exercise
 
 Ejercicio de userList desarrollado con **Node.js + Express** en el backend y **React + Vite + Tailwind CSS** en el frontend.
 
@@ -6,7 +6,7 @@ Crea un componente funcional llamado UserList que obtenga datos de una API y mue
 Implementa una funcionalidad de búsqueda que permita filtrar los usuarios por nombre.
 
 
-## 🧩 Tecnologías usadas
+## Tecnologías usadas
 
 ### Backend
 - Node.js
